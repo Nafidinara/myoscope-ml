@@ -6,3 +6,4 @@ pandas
 pywavelets
 scikit-learn==1.2.2
 torchvision
+noisereduce
